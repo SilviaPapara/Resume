@@ -1,0 +1,167 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
+body {
+  background-color: rgb(244, 244, 244);
+  font-family: "Poppins", sans-serif;
+}
+
+.main-section {
+  display: flex;
+  flex-direction: row-reverse;
+  width: 1200px;
+  margin: 40px auto;
+}
+
+.right-section {
+  padding-left: 90px;
+  padding-right: 220px;
+  background-color: #f5f5f5;
+  color: black;
+}
+
+.about-me-proffesion {
+  font-size: 14;
+  font-weight: 700;
+  line-height: 17px;
+  margin-top: 100px;
+}
+
+#name {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 55px;
+  margin-top: 30px;
+}
+
+.about-me-section {
+  width: 400px;
+}
+
+.about-me-section p {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: rgb(67, 67, 67);
+}
+
+.project-section {
+  margin: 40px 0 0 0;
+}
+
+.block-title {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 27px;
+}
+
+.projects-items {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  text-decoration: underline;
+  color: rgb(67, 67, 67);
+  margin-left: 10px;
+}
+
+.project-section ol {
+  padding-left: 18px;
+}
+
+ol li,
+.bracket {
+  font-weight: 700;
+  color: black;
+}
+
+.work-experience-section,
+.education-section {
+  margin-top: 50px;
+}
+
+.work-experience-company,
+.education-name,
+.projects-items a,
+.sidebar-list {
+  color: #c29b52;
+}
+
+.period {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 15px;
+  color: #474747;
+}
+
+.line-break {
+  color: black;
+}
+
+.work-experience-duties {
+  padding-left: 15px;
+}
+
+.work-experience-duties li {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #3f3f3f;
+}
+
+.sidebar-section {
+  background-color: #233143;
+  width: 600px;
+}
+
+.profilePic {
+  border-radius: 50%;
+  width: 300px;
+  margin: 20px;
+}
+
+.sidebar-title {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 27px;
+  color: white;
+}
+
+.contact-section,
+.skills-section {
+  margin-left: 40px;
+}
+
+.contacts-section-type {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  color: white;
+  margin-right: 10px;
+}
+
+.contacts-section-value {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #a0a8b5;
+}
+
+.sidebar-list {
+  padding-left: 25px;
+}
+
+.sidebar-list span,
+.sidebar-list span {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: white;
+}
